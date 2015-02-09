@@ -1,0 +1,404 @@
+pdflatex document
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian)
+ restricted \write18 enabled.
+entering extended mode
+(./document.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(./acmsiggraph.cls
+Document Class: acmsiggraph 2013/12/06 ACM SIGGRAPH class
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+No file document.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd)
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 1 undefined on input line 3
+9.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'Lawrence:2004:EBI' on page 1 undefined on input line 4
+7.
+
+
+LaTeX Warning: Citation 'Douglas-Peucker:1973:AFT' on page 1 undefined on input
+ line 49.
+
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 1 undefined on input line 4
+9.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'Matusik:2003:ADR' on page 1 undefined on input line 65
+.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 65.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images/piecewise.png, id=26, 546.04pt x 197.73875pt>
+<use images/piecewise.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 70--71
+ [][] 
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 2 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 2 undefined on input line 88.
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 107--107
+[]\OT1/phv/b/n/12 Multidimensional Nu-mer-i-cal CDF Com-
+
+LaTeX Warning: Citation 'Douglas-Peucker:1973:AFT' on page 2 undefined on input
+ line 108.
+
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 2 undefined on input line 1
+10.
+
+<images/curveApproximation.png, id=27, 327.2225pt x 167.62625pt>
+<use images/curveApproximation.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 114--115
+ [][] 
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 2 undefined on input line 1
+18.
+
+[2 <./images/piecewise.png>]
+<images/results.png, id=40, 676.5275pt x 221.82875pt> <use images/results.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 135--136
+ [][] 
+<images/resultsImages.png, id=41, 479.7925pt x 475.7775pt>
+<use images/resultsImages.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 143--144
+ [][] 
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 3 undefined on input line 1
+50.
+
+No file document.bbl.
+[3 <./images/curveApproximation.png> <./images/results.png>] [4 <./images/resul
+tsImages.png>] (./document.aux) )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (4 pages, 251393 bytes).
+Transcript written on document.log.
+bibtex document
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+The top-level auxiliary file: document.aux
+The style file: acmsiggraph.bst
+Database file #1: document.bib
+pdflatex document
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian)
+ restricted \write18 enabled.
+entering extended mode
+(./document.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(./acmsiggraph.cls
+Document Class: acmsiggraph 2013/12/06 ACM SIGGRAPH class
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(./document.aux) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd)
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 1 undefined on input line 3
+9.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'Lawrence:2004:EBI' on page 1 undefined on input line 4
+7.
+
+
+LaTeX Warning: Citation 'Douglas-Peucker:1973:AFT' on page 1 undefined on input
+ line 49.
+
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 1 undefined on input line 4
+9.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'Matusik:2003:ADR' on page 1 undefined on input line 65
+.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 1 undefined on input line 65.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images/piecewise.png, id=26, 546.04pt x 197.73875pt>
+<use images/piecewise.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 70--71
+ [][] 
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 2 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'Pharr:2010:PBR' on page 2 undefined on input line 88.
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 107--107
+[]\OT1/phv/b/n/12 Multidimensional Nu-mer-i-cal CDF Com-
+
+LaTeX Warning: Citation 'Douglas-Peucker:1973:AFT' on page 2 undefined on input
+ line 108.
+
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 2 undefined on input line 1
+10.
+
+<images/curveApproximation.png, id=27, 327.2225pt x 167.62625pt>
+<use images/curveApproximation.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 114--115
+ [][] 
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 2 undefined on input line 1
+18.
+
+[2 <./images/piecewise.png>]
+<images/results.png, id=40, 676.5275pt x 221.82875pt> <use images/results.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 135--136
+ [][] 
+<images/resultsImages.png, id=41, 479.7925pt x 475.7775pt>
+<use images/resultsImages.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 143--144
+ [][] 
+
+LaTeX Warning: Citation 'Lawrence:2005:ANC' on page 3 undefined on input line 1
+50.
+
+(./document.bbl [3 <./images/curveApproximation.png> <./images/results.png>])
+[4 <./images/resultsImages.png>] (./document.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (4 pages, 256013 bytes).
+Transcript written on document.log.
+pdflatex document
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian)
+ restricted \write18 enabled.
+entering extended mode
+(./document.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(./acmsiggraph.cls
+Document Class: acmsiggraph 2013/12/06 ACM SIGGRAPH class
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(./document.aux) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd) [1{/var/lib/texmf/fo
+nts/map/pdftex/updmap/pdftex.map}]
+<images/piecewise.png, id=40, 546.04pt x 197.73875pt>
+<use images/piecewise.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 70--71
+ [][] 
+
+Underfull \hbox (badness 4899) in paragraph at lines 107--107
+[]\OT1/phv/b/n/12 Multidimensional Nu-mer-i-cal CDF Com-
+<images/curveApproximation.png, id=45, 327.2225pt x 167.62625pt>
+<use images/curveApproximation.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 114--115
+ [][] 
+[2 <./images/piecewise.png>]
+<images/results.png, id=63, 676.5275pt x 221.82875pt> <use images/results.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 135--136
+ [][] 
+<images/resultsImages.png, id=64, 479.7925pt x 475.7775pt>
+<use images/resultsImages.png>
+Overfull \hbox (12.0pt too wide) in paragraph at lines 143--144
+ [][] 
+(./document.bbl [3 <./images/curveApproximation.png> <./images/results.png>])
+[4 <./images/resultsImages.png>] (./document.aux) )
+(see the transcript file for additional information){/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (4 pages, 256271 bytes).
+Transcript written on document.log.
