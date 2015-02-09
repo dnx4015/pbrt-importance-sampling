@@ -1,0 +1,3 @@
+avgmaxSize5_minPDist0.00100.pbrt
+avg theta: 4 
+avg phi: 3 

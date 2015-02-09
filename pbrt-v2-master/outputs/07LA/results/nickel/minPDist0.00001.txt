@@ -1,0 +1,3 @@
+avgminPDist0.00001.pbrt
+avg theta: 175 
+avg phi: 28 

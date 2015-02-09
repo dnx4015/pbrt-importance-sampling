@@ -1,0 +1,100 @@
+minPDist0.00001_minRDist0.00001.exr
+8.15004e-06 (1.24362e-10)
+
+
+minPDist0.00001_minRDist0.00010.exr
+8.15004e-06 (1.24362e-10)
+
+
+minPDist0.00001_minRDist0.00100.exr
+8.15004e-06 (1.24362e-10)
+
+
+minPDist0.00001_minRDist0.01000.exr
+8.15004e-06 (1.24362e-10)
+
+
+minPDist0.00001_minRDist0.10000.exr
+8.15004e-06 (1.24362e-10)
+
+
+minPDist0.00010_minRDist0.00001.exr
+8.19255e-06 (1.2501e-10)
+
+
+minPDist0.00010_minRDist0.00010.exr
+8.19255e-06 (1.2501e-10)
+
+
+minPDist0.00010_minRDist0.00100.exr
+8.19255e-06 (1.2501e-10)
+
+
+minPDist0.00010_minRDist0.01000.exr
+8.19255e-06 (1.2501e-10)
+
+
+minPDist0.00010_minRDist0.10000.exr
+8.19255e-06 (1.2501e-10)
+
+
+minPDist0.00100_minRDist0.00001.exr
+8.17197e-06 (1.24696e-10)
+
+
+minPDist0.00100_minRDist0.00010.exr
+8.17197e-06 (1.24696e-10)
+
+
+minPDist0.00100_minRDist0.00100.exr
+8.17197e-06 (1.24696e-10)
+
+
+minPDist0.00100_minRDist0.01000.exr
+8.17197e-06 (1.24696e-10)
+
+
+minPDist0.00100_minRDist0.10000.exr
+8.17197e-06 (1.24696e-10)
+
+
+minPDist0.01000_minRDist0.00001.exr
+7.56772e-06 (1.15476e-10)
+
+
+minPDist0.01000_minRDist0.00010.exr
+7.56772e-06 (1.15476e-10)
+
+
+minPDist0.01000_minRDist0.00100.exr
+7.56772e-06 (1.15476e-10)
+
+
+minPDist0.01000_minRDist0.01000.exr
+7.56772e-06 (1.15476e-10)
+
+
+minPDist0.01000_minRDist0.10000.exr
+7.56772e-06 (1.15476e-10)
+
+
+minPDist0.10000_minRDist0.00001.exr
+7.56052e-06 (1.15366e-10)
+
+
+minPDist0.10000_minRDist0.00010.exr
+7.56052e-06 (1.15366e-10)
+
+
+minPDist0.10000_minRDist0.00100.exr
+7.56052e-06 (1.15366e-10)
+
+
+minPDist0.10000_minRDist0.01000.exr
+7.56052e-06 (1.15366e-10)
+
+
+minPDist0.10000_minRDist0.10000.exr
+7.56052e-06 (1.15366e-10)
+
+

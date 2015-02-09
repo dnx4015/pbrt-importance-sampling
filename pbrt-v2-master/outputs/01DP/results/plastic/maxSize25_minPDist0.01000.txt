@@ -1,0 +1,1 @@
+avgmaxSize25_minPDist0.01000.pbrt

@@ -1,0 +1,100 @@
+minPDist0.00001_minRDist0.00001.exr
+12.6024 (0.0001923)
+
+
+minPDist0.00001_minRDist0.00010.exr
+12.6024 (0.0001923)
+
+
+minPDist0.00001_minRDist0.00100.exr
+12.6024 (0.0001923)
+
+
+minPDist0.00001_minRDist0.01000.exr
+12.6024 (0.0001923)
+
+
+minPDist0.00001_minRDist0.10000.exr
+12.6024 (0.0001923)
+
+
+minPDist0.00010_minRDist0.00001.exr
+12.592 (0.000192141)
+
+
+minPDist0.00010_minRDist0.00010.exr
+12.592 (0.000192141)
+
+
+minPDist0.00010_minRDist0.00100.exr
+12.592 (0.000192141)
+
+
+minPDist0.00010_minRDist0.01000.exr
+12.592 (0.000192141)
+
+
+minPDist0.00010_minRDist0.10000.exr
+12.592 (0.000192141)
+
+
+minPDist0.00100_minRDist0.00001.exr
+12.5954 (0.000192193)
+
+
+minPDist0.00100_minRDist0.00010.exr
+12.5954 (0.000192193)
+
+
+minPDist0.00100_minRDist0.00100.exr
+12.5954 (0.000192193)
+
+
+minPDist0.00100_minRDist0.01000.exr
+12.5954 (0.000192193)
+
+
+minPDist0.00100_minRDist0.10000.exr
+12.5954 (0.000192193)
+
+
+minPDist0.01000_minRDist0.00001.exr
+12.5959 (0.000192201)
+
+
+minPDist0.01000_minRDist0.00010.exr
+12.5959 (0.000192201)
+
+
+minPDist0.01000_minRDist0.00100.exr
+12.5959 (0.000192201)
+
+
+minPDist0.01000_minRDist0.01000.exr
+12.5959 (0.000192201)
+
+
+minPDist0.01000_minRDist0.10000.exr
+12.5959 (0.000192201)
+
+
+minPDist0.10000_minRDist0.00001.exr
+12.5452 (0.000191428)
+
+
+minPDist0.10000_minRDist0.00010.exr
+12.5452 (0.000191428)
+
+
+minPDist0.10000_minRDist0.00100.exr
+12.5452 (0.000191428)
+
+
+minPDist0.10000_minRDist0.01000.exr
+12.5452 (0.000191428)
+
+
+minPDist0.10000_minRDist0.10000.exr
+12.5452 (0.000191428)
+
+

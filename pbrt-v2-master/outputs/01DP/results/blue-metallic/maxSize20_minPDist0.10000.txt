@@ -1,0 +1,3 @@
+avgmaxSize20_minPDist0.10000.pbrt
+avg theta: 1 
+avg phi: 1 

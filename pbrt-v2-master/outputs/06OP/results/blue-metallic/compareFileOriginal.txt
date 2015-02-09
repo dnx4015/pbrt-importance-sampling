@@ -1,0 +1,100 @@
+minPDist0.00001_minRDist0.00001.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00001_minRDist0.00010.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00001_minRDist0.00100.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00001_minRDist0.01000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00001_minRDist0.10000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00010_minRDist0.00001.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00010_minRDist0.00010.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00010_minRDist0.00100.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00010_minRDist0.01000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00010_minRDist0.10000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00100_minRDist0.00001.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00100_minRDist0.00010.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00100_minRDist0.00100.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00100_minRDist0.01000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.00100_minRDist0.10000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.01000_minRDist0.00001.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.01000_minRDist0.00010.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.01000_minRDist0.00100.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.01000_minRDist0.01000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.01000_minRDist0.10000.exr
+5.57225 (8.50271e-05)
+
+
+minPDist0.10000_minRDist0.00001.exr
+5.57226 (8.50273e-05)
+
+
+minPDist0.10000_minRDist0.00010.exr
+5.57226 (8.50273e-05)
+
+
+minPDist0.10000_minRDist0.00100.exr
+5.57226 (8.50273e-05)
+
+
+minPDist0.10000_minRDist0.01000.exr
+5.57226 (8.50273e-05)
+
+
+minPDist0.10000_minRDist0.10000.exr
+5.57226 (8.50273e-05)
+
+

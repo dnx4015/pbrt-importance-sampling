@@ -1,0 +1,3 @@
+avgminPDist0.00100.pbrt
+avg theta: 2 
+avg phi: 1 

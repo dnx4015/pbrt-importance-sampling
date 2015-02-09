@@ -1,0 +1,120 @@
+maxSize5_minPDist0.00001.exr
+2.48979 (3.79918e-05)
+
+
+maxSize5_minPDist0.00010.exr
+2.48979 (3.79918e-05)
+
+
+maxSize5_minPDist0.00100.exr
+2.48979 (3.79918e-05)
+
+
+maxSize5_minPDist0.01000.exr
+2.48747 (3.79564e-05)
+
+
+maxSize5_minPDist0.10000.exr
+2.48727 (3.79533e-05)
+
+
+maxSize10_minPDist0.00001.exr
+2.41829 (3.69007e-05)
+
+
+maxSize10_minPDist0.00010.exr
+2.41903 (3.6912e-05)
+
+
+maxSize10_minPDist0.00100.exr
+2.41874 (3.69076e-05)
+
+
+maxSize10_minPDist0.01000.exr
+2.42216 (3.69597e-05)
+
+
+maxSize10_minPDist0.10000.exr
+2.48727 (3.79533e-05)
+
+
+maxSize15_minPDist0.00001.exr
+2.41777 (3.68928e-05)
+
+
+maxSize15_minPDist0.00010.exr
+2.41868 (3.69067e-05)
+
+
+maxSize15_minPDist0.00100.exr
+2.41867 (3.69066e-05)
+
+
+maxSize15_minPDist0.01000.exr
+2.4219 (3.69558e-05)
+
+
+maxSize15_minPDist0.10000.exr
+2.48727 (3.79533e-05)
+
+
+maxSize20_minPDist0.00001.exr
+2.41784 (3.68939e-05)
+
+
+maxSize20_minPDist0.00010.exr
+2.41867 (3.69065e-05)
+
+
+maxSize20_minPDist0.00100.exr
+2.41873 (3.69074e-05)
+
+
+maxSize20_minPDist0.01000.exr
+2.42196 (3.69567e-05)
+
+
+maxSize20_minPDist0.10000.exr
+2.48727 (3.79533e-05)
+
+
+maxSize25_minPDist0.00001.exr
+2.41782 (3.68936e-05)
+
+
+maxSize25_minPDist0.00010.exr
+2.41867 (3.69066e-05)
+
+
+maxSize25_minPDist0.00100.exr
+2.41872 (3.69074e-05)
+
+
+maxSize25_minPDist0.01000.exr
+2.42196 (3.69568e-05)
+
+
+maxSize25_minPDist0.10000.exr
+2.48727 (3.79533e-05)
+
+
+maxSize30_minPDist0.00001.exr
+2.41784 (3.68938e-05)
+
+
+maxSize30_minPDist0.00010.exr
+2.41867 (3.69066e-05)
+
+
+maxSize30_minPDist0.00100.exr
+2.41872 (3.69074e-05)
+
+
+maxSize30_minPDist0.01000.exr
+2.42196 (3.69567e-05)
+
+
+maxSize30_minPDist0.10000.exr
+2.48727 (3.79533e-05)
+
+
