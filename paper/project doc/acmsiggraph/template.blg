@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: template.aux
+The style file: acmsiggraph.bst
+Database file #1: template.bib
+You've used 4 entries,
+            2748 wiz_defined-function locations,
+            624 strings with 5234 characters,
+and the built_in function-call counts, 1751 in all, are:
+= -- 174
+> -- 88
+< -- 0
++ -- 30
+- -- 31
+* -- 158
+:= -- 296
+add.period$ -- 15
+call.type$ -- 4
+change.case$ -- 31
+chr.to.int$ -- 4
+cite$ -- 4
+duplicate$ -- 51
+empty$ -- 128
+format.name$ -- 34
+if$ -- 350
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 3
+newline$ -- 26
+num.names$ -- 12
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 37
+stack$ -- 0
+substring$ -- 95
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 0
+while$ -- 15
+width$ -- 5
+write$ -- 59

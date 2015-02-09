@@ -1,0 +1,35 @@
+\begin{thebibliography}{\protect\citename{Lawrence et~al\mbox{.} }2005}
+
+\bibitem[\protect\citename{Douglas and Peucker }1973]{Douglas-Peucker:1973:AFT}
+{\sc Douglas, D., and Peucker, T.}
+\newblock 1973.
+\newblock Algorithms for the reduction of the number of points required to
+  represent a digitalized line or its caricature.
+\newblock {\em The Canadian Cartographer 10}, 2, 112--122.
+
+\bibitem[\protect\citename{Lawrence et~al\mbox{.} }2004]{Lawrence:2004:EBI}
+{\sc Lawrence, J., Rusinkiewicz, S., and Ramamoorthi, R.}
+\newblock 2004.
+\newblock Efficient brdf importance sampling using a factored representation.
+\newblock {\em ACM Transactions on Graphics (ACM SIGGRAPH 2004) 23}, 3.
+
+\bibitem[\protect\citename{Lawrence et~al\mbox{.} }2005]{Lawrence:2005:ANC}
+{\sc Lawrence, J., Rusinkiewicz, S., and Ramamoorthi, R.}
+\newblock 2005.
+\newblock Adaptive numerical cumulative distribution functions for efficient
+  importance sampling.
+\newblock {\em Rendering Techniques\/}, 11--20.
+
+\bibitem[\protect\citename{Matusik }2003]{Matusik:2003:ADR}
+{\sc Matusik, W.}
+\newblock 2003.
+\newblock {\em A Data-Driven Reflectance Model}.
+\newblock PhD thesis, Massachusetts Institute of Technology.
+
+\bibitem[\protect\citename{Pharr and Humphreys }2010]{Pharr:2010:PBR}
+{\sc Pharr, M., and Humphreys, G.}
+\newblock 2010.
+\newblock {\em Physically Based Rendering}.
+\newblock Morgan Kaufmann Publishers.
+
+\end{thebibliography}
